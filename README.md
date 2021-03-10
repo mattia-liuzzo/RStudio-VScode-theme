@@ -1,5 +1,5 @@
 # RStudio-VScode-theme
-RStudio theme inspired by VS code colors.
+A simple and cool theme for RStudio inspired by VS code colors.
 
 ![image](https://user-images.githubusercontent.com/63495216/110652882-0fdee500-81bd-11eb-873e-1aeba30bb95a.png)
 ![image](https://user-images.githubusercontent.com/63495216/110654675-a65fd600-81be-11eb-8b2a-88e1a4cb1402.png)
@@ -19,6 +19,6 @@ if(!rstudioapi::isAvailable()){
 rstudioapi::addTheme("https://raw.githubusercontent.com/mattia-liuzzo/RStudio-VScode-theme/main/rs-vscode.rstheme", apply = TRUE)
 ```
 
-It requires `rstudioapi` package. You can install it with `install.packages("rstudioapi")`.
+It requires `rstudioapi` package. You can install it using `install.packages("rstudioapi")`.
 
 Enjoy your theme!

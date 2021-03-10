@@ -17,4 +17,6 @@ You can also install it and automatically add it with this command:
 rstudioapi::addTheme("https://raw.githubusercontent.com/mattia-liuzzo/RStudio-VScode-theme/main/rs-vscode.rstheme", apply = TRUE)
 ```
 
-It requires `rstudioapi` package.
+It requires `rstudioapi` package. You can install it with `devtools::install_github("rstudio/rstudioapi")`.
+
+Enjoy your theme!

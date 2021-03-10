@@ -19,4 +19,10 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/mattia-liuzzo/RStudio-VS
 
 It requires `rstudioapi` package. You can install it using `install.packages("rstudioapi")`.
 
-Enjoy your theme!
+### Suggestion
+I also suggest to use _Consolas_ font like VS code.
+
+![image](https://user-images.githubusercontent.com/63495216/110660743-289ec900-81c4-11eb-9bc1-52574b6c1d80.png)
+
+
+#### Enjoy your theme!

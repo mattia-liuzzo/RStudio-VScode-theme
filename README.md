@@ -8,7 +8,7 @@ A simple and cool theme for **RStudio** inspired by VS code (Dark+) colors and b
 # Add theme manually to RStudio
 Required: RStudio v1.2+
 
-Download rs-vscode.rstheme file and add it within RStudio.
+Download _rs-vscode.rstheme_ file and add it within RStudio.
 
 # Install it
 You can also install it and automatically add it, simply using these commands:

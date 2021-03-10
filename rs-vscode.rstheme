@@ -1,5 +1,14 @@
 /* rs-theme-name: VScodeTheme */
 /* rs-theme-is-dark: TRUE */
+
+div.rstudio-themes-dark.rstudio-themes-scrollbars.rstudio-themes-dark-grey {
+  background-color:  rgb(53, 67, 74)
+}
+
+.rstudio-themes-flat .rstudio-themes-dark-grey .gwt-SplitLayoutPanel-HDragger, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-SplitLayoutPanel-VDragger {
+    background: rgb(53, 67, 74) !important;
+}
+
 .ace_gutter {
   background: #25282c;
   color: #C5C8C6

@@ -1,4 +1,4 @@
-/* rs-theme-name: R-VScode */
+/* rs-theme-name: VScodeTheme */
 /* rs-theme-is-dark: TRUE */
 .ace_gutter {
   background: #25282c;

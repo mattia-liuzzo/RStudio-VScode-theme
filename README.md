@@ -13,7 +13,7 @@ Download rs-vscode.rstheme file and add it within RStudio.
 You can also install it and automatically add it with this command:
 
 ```
-rstudioapi::addTheme("https://github.com/mattia-liuzzo/RStudio-VScode-theme/blob/main/rs-vscode.rstheme", apply = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/mattia-liuzzo/RStudio-VScode-theme/main/rs-vscode.rstheme", apply = TRUE)
 ```
 
 It requires `rstudioapi` package.

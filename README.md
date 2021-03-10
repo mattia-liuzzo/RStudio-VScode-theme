@@ -1,7 +1,7 @@
 # RStudio-VScode-theme
 A simple and cool theme for **RStudio** inspired by VS code (Dark+) colors and based on *Tomorrow Night* theme.
 
-![image](https://user-images.githubusercontent.com/63495216/110652882-0fdee500-81bd-11eb-873e-1aeba30bb95a.png)
+![image](https://user-images.githubusercontent.com/63495216/110667938-0f4d4b00-81cb-11eb-943e-f5951dbed137.png)
 ![image](https://user-images.githubusercontent.com/63495216/110654675-a65fd600-81be-11eb-8b2a-88e1a4cb1402.png)
 
 

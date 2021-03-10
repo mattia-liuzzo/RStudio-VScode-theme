@@ -11,12 +11,14 @@ Required: RStudio v1.2+
 Download rs-vscode.rstheme file and add it within RStudio.
 
 # Install it
-You can also install it and automatically add it with this command:
+You can also install it and automatically add it, simply using these commands:
 
 ```
+if(!rstudioapi::isAvailable()){
+  }
 rstudioapi::addTheme("https://raw.githubusercontent.com/mattia-liuzzo/RStudio-VScode-theme/main/rs-vscode.rstheme", apply = TRUE)
 ```
 
-It requires `rstudioapi` package. You can install it with `devtools::install_github("rstudio/rstudioapi")`.
+It requires `rstudioapi` package. You can install it with `install.packages("rstudioapi")`.
 
 Enjoy your theme!

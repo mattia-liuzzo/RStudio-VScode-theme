@@ -25,4 +25,4 @@ I also suggest to use _Consolas_ font like VS code.
 ![image](https://user-images.githubusercontent.com/63495216/110660743-289ec900-81c4-11eb-9bc1-52574b6c1d80.png)
 
 
-#### Enjoy your theme!
+***Enjoy your theme!***

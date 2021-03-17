@@ -109,7 +109,8 @@ div.rstudio-themes-dark.rstudio-themes-scrollbars.rstudio-themes-dark-grey {
 .ace_entity.ace_other.ace_attribute-name,
 .ace_meta.ace_tag,
 .ace_string.ace_regexp,
-.ace_variable {
+.ace_variable,
+.ace_comment.ace_doc.ace_tag{
   color: #C586C0
 }
 .ace_comment {
